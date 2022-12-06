@@ -8,6 +8,7 @@ The python scripts provided in this repository mostly deals with the propagation
 
 The scripts in the ```internship_HB2021``` repository requires a working ```Python3``` environement with the functionality of ```numpy, scipy``` and ```matplotlib```.
 
+## Availability of the software
 
 The repository can be clone by running the following in the command line: 
 
